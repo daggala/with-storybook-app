@@ -11,7 +11,7 @@ export default function AbsoluteImports() {
       </Head>
       <Links />
       <main>
-        This uses an absolute import ... Test Lara :{" "}
+        This uses an absolute import ... Test again Lara :{" "}
         <MyComponent>Im absolutely imported</MyComponent>
       </main>
     </div>
